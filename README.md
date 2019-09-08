@@ -11,3 +11,6 @@ Sur tout ce que je trouve qui permet d'analyser / opérer l'arbre des dépendanc
 > required files, along with detailed information about each file including a full path to the file, base address, version numbers, 
 > machine type, debug information, and more.
 > 
+
+# Chocolatey
+
